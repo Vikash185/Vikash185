@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikash Kumar  
-- 👀 I’m interested in UI/UX design and data mining 
+- 👀 I’m interested in Data scientist and data mining 
 - 🌱 Currently learning databases, Java, and Python  
 - 💼 Open to collaborations on UI/UX and data-related projects 
 - 📫 Reach me at: vksiwan456@gmail.com 
