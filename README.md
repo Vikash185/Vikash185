@@ -2,29 +2,34 @@
 
 # Vikash Kumar
 
-AI Developer | Data Analyst | Prompt Engineer
+### AI Developer | Data Analyst | Prompt Engineer
 
-<a href="mailto:vksiwan456@gmail.com"><img src="https://img.shields.io/badge/Email-vksiwan456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/Vikash185"><img src="https://img.shields.io/badge/GitHub-Vikash185-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+I turn data into insights and build practical tools with AI.
+
+<a href="mailto:vksiwan456@gmail.com"><img src="https://img.shields.io/badge/Email-vksiwan456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://github.com/Vikash185"><img src="https://img.shields.io/badge/GitHub-Vikash185-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 ---
 
-## About me
+## What I do
 
-- I'm interested in data science and data mining.
-- I'm currently learning databases, Java and Python.
-- I'm open to collaborating on UI/UX and data projects.
-- Outside of code, I enjoy video editing.
+### AI development
+I build machine learning models and AI-assisted tools, such as time series forecasting with an LSTM network in TensorFlow/Keras, and a browser-based ATS resume checker.
+
+### Data analysis
+I clean, explore and visualise data in Jupyter with Pandas, NumPy, Matplotlib and Seaborn, from sales reports to student performance data.
+
+### Prompt engineering
+I write and refine prompts so AI models give accurate, consistent and useful results.
 
 ## Tech stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,html,css,tensorflow,sklearn,git,github,vscode,netlify&perline=11" alt="Python, Java, JavaScript, HTML, CSS, TensorFlow, scikit-learn, Git, GitHub, VS Code, Netlify">
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib">
@@ -32,12 +37,15 @@ AI Developer | Data Analyst | Prompt Engineer
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-## Currently learning
+## About me
 
-- Databases
-- Java
-- Python for data analysis and machine learning
+- Interested in data science and data mining
+- Currently learning databases, Java and Python for machine learning
+- Open to collaborating on AI, data and UI/UX projects
+- Outside of code, I enjoy video editing
 
 ## Contact
 
-Email me at [vksiwan456@gmail.com](mailto:vksiwan456@gmail.com). Pronouns: he/him.
+Have an idea or a project in mind? Email me at [vksiwan456@gmail.com](mailto:vksiwan456@gmail.com).
+
+Pronouns: he/him
