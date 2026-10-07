@@ -39,7 +39,9 @@ I write and refine prompts so AI models give accurate, consistent and useful res
 
 ## About me
 
+- Focused on AI development, data analysis and prompt engineering
 - Interested in data science and data mining
+- I enjoy turning raw data into clear charts and useful insights
 - Currently learning databases, Java and Python for machine learning
 - Open to collaborating on AI, data and UI/UX projects
 - Outside of code, I enjoy video editing
