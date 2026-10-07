@@ -2,7 +2,7 @@
 
 # Vikash Kumar
 
-Data science learner who builds small, useful web tools
+AI Developer | Data Analyst | Prompt Engineer
 
 <a href="mailto:vksiwan456@gmail.com"><img src="https://img.shields.io/badge/Email-vksiwan456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Vikash185"><img src="https://img.shields.io/badge/GitHub-Vikash185-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
